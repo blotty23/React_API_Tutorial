@@ -12,12 +12,9 @@ It also creates dynamic previous/next buttons to allow pagination through the li
 
 
 # Development process 
-<<<<<<< Updated upstream
-* start with npx create-web-app
-* remove majority of boiler plate code 
-=======
+
 * start with npx create-web-app ([0e41473](https://github.com/blotty23/React_API_Tutorial/commit/0e41473a13a9ffa2ba5f7b6b9d5d069b29e46d37))
-* remove majority of boilerplate code ([5a3cabe](https://github.com/blotty23/React_API_Tutorial/commit/5a3cabe924eda1b9aecd2eb1327501caf8394360))
+* remove majority of boiler plate code ([5a3cabe](https://github.com/blotty23/React_API_Tutorial/commit/5a3cabe924eda1b9aecd2eb1327501caf8394360))
 * STEP TEMPLATE ([commit](commitaddress))
->>>>>>> Stashed changes
+
 
