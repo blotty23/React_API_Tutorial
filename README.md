@@ -13,5 +13,5 @@ It also creates dynamic previous/next buttons to allow pagination through the li
 
 # Development process 
 * start with npx create-web-app
-* remove majority of boilerplate code 
+* remove majority of boiler plate code 
 
