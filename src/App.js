@@ -3,8 +3,8 @@ import PokemonList from './PokemonList';
 
 function App() {
 
-  const [pokemon, setPokemon] = useState([])
-  
+  const [pokemon, setPokemon] = useState(["bulbasaur", "charmander"])
+
   return (
     null
   );
