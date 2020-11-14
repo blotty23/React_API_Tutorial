@@ -4,7 +4,7 @@ import PokemonList from './PokemonList';
 
 function App() {
 
-  const [pokemon, setPokemon] = useState(["bulbasaur", "charmander"])
+  const [pokemon, setPokemon] = useState()
 
   return (
     <PokemonList pokemon={pokemon} />
